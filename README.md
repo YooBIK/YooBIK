@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=quddlr96)](https://solved.ac/quddlr96)&nbsp;&nbsp;![YooBIK's github stats](https://github-readme-stats.vercel.app/api?username=YooBIK&show_icons=true)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=quddlr96)](https://solved.ac/quddlr96)&nbsp;&nbsp;![YooBIK's github stats](https://github-readme-stats.vercel.app/api?username=YooBIK&show_icons=true)}
 
 
 <!--
