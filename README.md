@@ -1,6 +1,3 @@
-# Hello World !! 👋
-
-
 ## Stats
 ![YooBIK's GitHub stats](https://github-readme-stats.vercel.app/api?username=YooBIK&theme=dracula&show_icons=true)
 
